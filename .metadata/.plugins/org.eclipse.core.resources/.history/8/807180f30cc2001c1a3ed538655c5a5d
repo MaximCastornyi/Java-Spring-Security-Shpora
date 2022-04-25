@@ -1,0 +1,8 @@
+package com.netsdevs.controller;
+
+
+@RestController
+public class WellcomeController {
+@GetMapping("/welcome")
+public String sayWel
+}

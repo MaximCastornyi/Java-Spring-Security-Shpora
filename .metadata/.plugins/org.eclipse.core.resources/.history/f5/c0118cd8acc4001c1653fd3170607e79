@@ -1,0 +1,5 @@
+package com.netsdevs.constants;
+
+public class SecurityConstants {
+
+}

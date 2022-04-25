@@ -1,0 +1,5 @@
+package com.netsdevs.config;
+
+public class EazyBankUsernamePwdAuthenticationProvider {
+
+}

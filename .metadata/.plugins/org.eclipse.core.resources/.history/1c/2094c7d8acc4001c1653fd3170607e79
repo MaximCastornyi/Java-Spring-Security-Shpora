@@ -1,0 +1,5 @@
+package com.netsdevs.filter;
+
+public class JWTTokenGeneratorFilter {
+
+}

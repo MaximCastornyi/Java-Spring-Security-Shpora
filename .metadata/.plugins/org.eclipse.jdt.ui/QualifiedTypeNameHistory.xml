@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder"/>
+    <fullyQualifiedTypeName name="com.netsdevs.model.Authority"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="org.springframework.security.config.annotation.web.configuration.EnableWebSecurity"/>
+    <fullyQualifiedTypeName name="com.netsdevs.filter.RequestValidationBeforeFilter"/>
+    <fullyQualifiedTypeName name="com.netsdevs.filter.AuthoritiesLoggingAfterFilter"/>
+    <fullyQualifiedTypeName name="com.netsdevs.filter.AuthoritiesLoggingAtFilter"/>
+    <fullyQualifiedTypeName name="org.springframework.security.web.authentication.www.BasicAuthenticationFilter"/>
+    <fullyQualifiedTypeName name="com.netsdevs.filter.JWTTokenGeneratorFilter"/>
+    <fullyQualifiedTypeName name="com.netsdevs.filter.JWTTokenValidatorFilter"/>
+</qualifiedTypeNameHistroy>

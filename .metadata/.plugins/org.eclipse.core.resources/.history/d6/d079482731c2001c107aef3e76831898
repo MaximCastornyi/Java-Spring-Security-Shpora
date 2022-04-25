@@ -1,0 +1,5 @@
+package com.netsdevs.model;
+
+public class Customer {
+
+}
